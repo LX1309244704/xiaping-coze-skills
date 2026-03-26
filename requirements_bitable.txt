@@ -1,0 +1,16 @@
+# 飞书多维表格自动化工作流依赖
+
+# 飞书SDK
+lark-oapi>=1.2.0
+
+# HTTP请求
+requests>=2.31.0
+
+# 环境变量
+python-dotenv>=1.0.0
+
+# 日志
+python-json-logger>=2.0.0
+
+# 定时任务
+schedule>=1.2.0
